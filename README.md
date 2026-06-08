@@ -144,3 +144,4 @@ The manual implementation matches scikit-learn to floating-point precision (diff
 ## License
 
 This project was created for academic purposes. Feel free to use or adapt it.
+
